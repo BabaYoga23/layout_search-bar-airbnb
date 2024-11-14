@@ -1,0 +1,14 @@
+@font-face {
+  font-family: avenirbook;
+  src: url("avenir-book-webfont.1e09ef31.woff2") format("woff2"), url("avenir-book-webfont.34419af9.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: avenirheavy;
+  src: url("avenir-heavy-webfont.035f1aa4.woff2") format("woff2"), url("avenir-heavy-webfont.eab1ca09.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+/*# sourceMappingURL=index.95069a27.css.map */
